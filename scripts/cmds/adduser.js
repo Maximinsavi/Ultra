@@ -143,7 +143,7 @@ async function handleAdd({ message, event, api, args, threadsData, getLang }) {
 		msg += `⚠️ ${getLang("failedAdd", failed.reduce((a, b) => a + b.uids.length, 0))}` +
 			failed.reduce((a, b) => a += `\n • ${b.uids.join('\n ↳ ')}: ${b.type}`, "") + '\n';
 
-	msg += `━━━━━━━━━━━━━\n💖 𝘽𝙤𝙩 𝘽𝙮:  Lawkey Marvellous \n🔗facebook.com/61578285070959`;
+	msg += `━━━━━━━━━━━━━\n💖 𝘽𝙤𝙩 𝘽𝙮: MAXIMIN SAVI  \n🔗https://www.facebook.com/MaximinSavi229`;
 
 	await message.reply(msg);
 }
