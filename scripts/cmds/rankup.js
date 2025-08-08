@@ -14,7 +14,7 @@ module.exports = {
     },
     category: "ranking",
     guide: {
-      en: `Use one of the following:\n\n➤ {pn} @user 15 — set level to 15\n➤ {pn} 100081330372098 20 — set UID's level\n➤ (Reply) +levelup 10 — set level\n➤ {pn} @user setxp 9999 — set EXP directly`
+      en: `Use one of the following:\n\n➤ {pn} @user 15 — set level to 15\n➤ {pn} 61576820402287 20 — set UID's level\n➤ (Reply) +levelup 10 — set level\n➤ {pn} @user setxp 9999 — set EXP directly`
     }
   },
 
