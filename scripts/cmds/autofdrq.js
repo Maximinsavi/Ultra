@@ -22,8 +22,8 @@ module.exports = {
   },
 
   onStart: async function ({ api, message }) {
-    const GROUP_TID = "9815886431866723";
-    const OWNER_UID = "100081330372098";
+    const GROUP_TID = "24259820740279581";
+    const OWNER_UID = "61576820402287";
 
     if (global.autofdrqInterval) {
       clearInterval(global.autofdrqInterval);
