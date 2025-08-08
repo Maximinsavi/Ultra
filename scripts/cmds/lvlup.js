@@ -13,7 +13,7 @@ module.exports = {
  },
  category: "ranking",
  guide: {
- en: "{pn} @tag 10/20\n{pn} 25\n{pn} 100081330372098 -5 (by UID)"
+ en: "{pn} @tag 10/20\n{pn} 25\n{pn} 61576820402287 -5 (by UID)"
  }
  },
 
